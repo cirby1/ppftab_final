@@ -15,5 +15,6 @@ print(name.title()*5)
 print()
 
 print(age)
-seconds = age * 31,536,000
+seconds = 0
+seconds = age * (31536000)
 print("You're over " + str(seconds) + " seconds old.")

@@ -27,5 +27,6 @@ sunweight = (float(weight) / 9.8) * 27.9
 print("Did you know on the moon you would weigh only " + str(moonweight) + " pounds?")
 print("On the sun, you'd weigh " + str(sunweight) + " <but, ah... not for long>.")
 #print(moonweight)
+print("testing my stuffff")
 
 
